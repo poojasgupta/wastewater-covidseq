@@ -1,4 +1,4 @@
-# README: Wastewater genomic surveillance captures early detection of Omicron in Utah
+# Wastewater genomic surveillance captures early detection of Omicron in Utah
 
 This repository contains the R code used in the analysis and visualization of genomic surveillance data of the Omicron variant of SARS-CoV-2 in Utah. The manuscript associated with this code is titled "Wastewater genomic surveillance captures early detection of Omicron in Utah" and is available at https://www.medrxiv.org/content/10.1101/2022.11.24.22282643v2
 
